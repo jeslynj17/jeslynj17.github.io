@@ -1,0 +1,57 @@
+.body-class{
+    background-color: rgb(231, 231, 231);
+}
+.header-class{
+    background-color: rgb(93, 36, 20);
+    color: White;
+    text-align: center;
+    padding: 10px 20px;
+}
+.nav-class {
+    background-color:rgb(245, 105, 54);
+    padding: 10px 10px;
+}
+.nav-link-class{
+
+    color:rgb(8, 65, 134);
+    font-weight: bold;
+    margin: 10px 100px;
+    font-size: 20px;
+}
+.title-class{
+    color: rgb(245, 105, 54);
+}
+.section-title-class{
+    color: rgb(69, 83, 91);
+    font-size: 40px;
+}
+.text-class{
+    color:rgb(4, 4, 121);
+}
+.faq-question-class{
+    color: rgb(40, 109, 237);
+}
+.cite-class{
+    color: rgb(238, 89, 35);
+}
+.image-class{
+    border-style: dashed;
+    border-color:rgb(93, 36, 20);
+    border-width: 10px;
+}
+.form-class{
+    background-color: rgb(62, 89, 105);
+    color:rgb(238, 89, 35);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+}
+.button-class{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 15px;
+}
+.footer-class{
+    background-color:rgb(245, 105, 54);
+    color:rgb(93, 36, 20);
+}
