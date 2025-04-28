@@ -1,0 +1,48 @@
+body{
+    background-color: beige;
+}
+.nav{
+    background-color: cornflowerblue;
+    text-align: right;
+    padding: 10px;
+    
+}
+.logo {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 30px;
+    vertical-align:bottom;
+    text-align: left;
+    padding-left: 10px;
+}
+.active {
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+.active:hover {
+    background-color:rgb(250, 209, 5);
+    color:rgb(5, 157, 245);
+}
+h2{
+    color:rgb(4, 84, 170);
+    font-size: 45px;
+    text-align: center;
+}
+p{
+    font-size: 45px;
+    color: cornflowerblue;
+    text-align: center;
+    margin: 20px 70px;
+}
+.button{
+    margin: 10px 650px;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(4, 84, 170);
+}
+
+#charityFact {
+    transition: opacity 0.3s ease-in;
+  }
+  

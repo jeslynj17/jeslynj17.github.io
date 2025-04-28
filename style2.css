@@ -1,0 +1,60 @@
+body{
+    background-color: beige;
+}
+.nav{
+    background-color: cornflowerblue;
+    text-align: right;
+    padding: 10px;
+    
+}
+.logo {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 30px;
+    vertical-align:bottom;
+    text-align: left;
+    padding-left: 10px;
+}
+.active {
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+.active:hover {
+    background-color:rgb(250, 209, 5);
+    color:rgb(5, 157, 245);
+}
+h2 {
+    text-align: center;
+    color: rgb(4, 88, 152);
+    font-size: 45px;
+}
+.pics {
+    text-align: center;
+}
+.Jude{
+    background-color: cornflowerblue;
+    padding: 50px;
+    margin: 10px 500px;
+}
+.Red{
+    background-color: cornflowerblue;
+    margin: 10px 500px;
+    padding: 50px;
+}
+.WWF{
+    background-color: cornflowerblue;
+    margin: 10px 500px;
+    padding: 50px;
+}
+
+a {
+    color:rgb(4, 43, 121);
+    font-size: 35px;
+}
+#api-charities{
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 30px;
+
+}
